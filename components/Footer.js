@@ -11,7 +11,7 @@ export default function Footer() {
                 <p className={styles.p}>Téléphone : +33 7 71 87 09 03</p>
                 <p className={styles.p}>Email : luc.bonin0903@gmail.com</p>
             </div>
-            <div className={styles.white}>
+            <div className={styles.div}>
                 <h4 className={styles.h4}>Suivez-moi</h4>
                 <ul className={styles.ul}>
                     <li className={styles.li}><a href="https://www.instagram.com/lucarafe/"><i className="fab fa-instagram fa-2x"></i></a></li>
