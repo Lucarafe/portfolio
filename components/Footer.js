@@ -6,7 +6,7 @@ export default function Footer() {
         <footer className={styles.footer}>
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-            <div>
+            <div className={styles.div}>
                 <h4 className={styles.h4}>Contact</h4>
                 <p className={styles.p}>Téléphone : +33 7 71 87 09 03</p>
                 <p className={styles.p}>Email : luc.bonin0903@gmail.com</p>
