@@ -10,6 +10,7 @@ export default function Footer() {
                 <h4 className={styles.h4}>Contact</h4>
                 <p className={styles.p}>Téléphone : +33 7 71 87 09 03</p>
                 <p className={styles.p}>Email : luc.bonin0903@gmail.com</p>
+                <p className={styles.p}>Email Étudiant : lucas.bonin5@etu.univ-lorraine.fr</p>
             </div>
             <div className={styles.div}>
                 <h4 className={styles.h4}>Suivez-moi</h4>
