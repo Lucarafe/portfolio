@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-import Script from "@components/script";
+import Script from "@components/Script";
 
 
 export default function Home() {
