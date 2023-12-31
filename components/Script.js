@@ -1,15 +1,9 @@
 // Récupérer tous les boutons radio
 
 const navLinks = document.querySelectorAll('.baniere');
-export default function Script() {
-
-    return () => {
-
-        navLinks.forEach(link => {
-            link.addEventListener('click', handleNavLinkClick);
-        });
-    }
-}
+navLinks.forEach(link => {
+    link.addEventListener('click', handleNavLinkClick);
+});
 
 function handleNavLinkClick(event) {
     // Empêcher le comportement par défaut du lien
