@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
         <Header />
       <Footer />
-        <link rel="stylesheet" href="@components/Script.js" />
+        <script src="components/Script.js"/>
     </div>
   )
 }
