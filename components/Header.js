@@ -21,7 +21,7 @@ export default function Header({ title }) {
             </ul>
           </div>
         </div>
-        <link rel="stylesheet" href="./Script.js" />
+
       </>
   )
 }
