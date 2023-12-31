@@ -1,7 +1,6 @@
 export default function Header({ title }) {
   return (
       <>
-        <h>Portfolio</h>
         <div className="d-flex justify-content-between align-items-center bg-dark">
           <h className="nav-link text-white user-select-none mx-4">Portfolio</h>
           <div className="mx-auto">
